@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Motoristas_Testes\Motoristas_Testes.csproj" />
+    <ProjectReference Include="..\Motoristas_Testes\Motoristas.csproj" />
   </ItemGroup>
 
   <ItemGroup>
